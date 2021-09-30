@@ -326,7 +326,7 @@ asd = asd.split(" ");
 
 
 
-var num =  5;
+var num =  55;
 
 for (let i = 0; i < asd.length ; i++){
 
