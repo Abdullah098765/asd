@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="72ddc23f-52cc-4939-a48e-760b85bbd26a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Poona.js" beforeDir="false" afterPath="$PROJECT_DIR$/Poona.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/peakpx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +73,7 @@
       <workItem from="1629917190234" duration="61000" />
       <workItem from="1629917441689" duration="1214000" />
       <workItem from="1632911215853" duration="2392000" />
-      <workItem from="1632998049707" duration="255000" />
+      <workItem from="1632998049707" duration="1148000" />
     </task>
     <servers />
   </component>
