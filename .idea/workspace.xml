@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72ddc23f-52cc-4939-a48e-760b85bbd26a" name="Default Changelist" comment="" />
+    <list default="true" id="72ddc23f-52cc-4939-a48e-760b85bbd26a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poona.js" beforeDir="false" afterPath="$PROJECT_DIR$/Poona.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pictures" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="SvnConfiguration">
@@ -67,6 +70,7 @@
       <workItem from="1629912473789" duration="926000" />
       <workItem from="1629917190234" duration="61000" />
       <workItem from="1629917441689" duration="1214000" />
+      <workItem from="1632911215853" duration="2392000" />
     </task>
     <servers />
   </component>
@@ -74,14 +78,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="571" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632921321024">
+      <screen x="0" y="0" width="1600" height="868" />
+    </state>
+    <state x="571" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.868@0.0.1600.868" timestamp="1632921321024" />
     <state x="100" y="100" width="1400" height="660" maximized="true" key="DiffContextDialog" timestamp="1629918217312">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="100" y="100" width="1400" height="660" maximized="true" key="DiffContextDialog/0.0.1600.860@0.0.1600.860" timestamp="1629918217312" />
-    <state x="579" y="172" key="FileChooserDialogImpl" timestamp="1629917900650">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="579" y="174" key="FileChooserDialogImpl" timestamp="1632921336135">
+      <screen x="0" y="0" width="1600" height="868" />
     </state>
     <state x="579" y="172" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1629917900650" />
+    <state x="579" y="174" key="FileChooserDialogImpl/0.0.1600.868@0.0.1600.868" timestamp="1632921336135" />
     <state x="100" y="100" width="1400" height="660" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1629917922611">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
